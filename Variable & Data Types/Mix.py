@@ -11,8 +11,8 @@ print(type(a))
 
 a=6
 b=7
-print(a==b)
-
+print(a==b) 
+#if both valve are equal then print true 
 bool_1=44<99
 print(bool_1)
 
