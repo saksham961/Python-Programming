@@ -23,4 +23,4 @@ print(a*b)
 
 str1=8
 str2=8
-print(str1+str2)
+print(str1+str2)#16
